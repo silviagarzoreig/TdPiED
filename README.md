@@ -1,6 +1,8 @@
 # TdPiED
 
  ## P1
+ ##### Amb efecte rodillo, crear un text que done la volta i que cambie de color segons el plano en el que es trobe.
+ 
 
  ## P2
  ##### Crear un recorregut de text fent efecte d'ondejar una bandera.
