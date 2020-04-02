@@ -7,6 +7,7 @@
  ## P3
  ##### Animant les propietats d'un cub i els materials, crear un text que es veja mentre van rotant.
  [text volta](p3_volta.mp4)
+ [practica voluntaria pantone] (p3_voluntaria_pantone.mp4)
 
  ## P4
 
