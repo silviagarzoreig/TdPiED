@@ -2,6 +2,7 @@
 
  ## P1
  ##### Amb efecte rodillo, crear un text que done la volta i que cambie de color segons el plano en el que es trobe.
+ [practica voluntaria FiGA Gandia](p1_voluntaria.mp4)
  
 
  ## P2
