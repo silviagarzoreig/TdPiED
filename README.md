@@ -27,8 +27,10 @@
 
  ## P5
  ##### Crear un bucle amb el text "no es no" animant un cub amb textura de tipografia prèviament preparada en Illustrator.
+ [pàctica no es no](p5.gif)
 
  ## P6
+ ##### Pràctica cartell amb tipografia que va girant sobre una forma geomètrica. No es va realitzar finalment perque va coincidir amb la data del confinament i era complicat fer l'exercici via on-line.
 
  ## P7
  ##### Crear una forma geomètrica i posar-li textura amb tipografia per fer efecte de que la tipografía ix de dins d'un forat animant les propietats de Longitud U i Longitud V.
