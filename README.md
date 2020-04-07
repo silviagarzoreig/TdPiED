@@ -35,6 +35,8 @@
  ## P7
  ##### Crear una forma geomètrica i posar-li textura amb tipografia per fer efecte de que la tipografía ix de dins d'un forat animant les propietats de Longitud U i Longitud V.
  [animació forat cuidem-nos tots](p7_cuidemnos.mp4)
+ 
+ [pràctica voluntaria cuidemnos tots](p7_voluntaria.gif)
 
  ## P8
  ##### Creació d'un cartell en PNG sobre un pla, creant un objecte amb una textura i jugant amb la reflectancia i la refracció.
