@@ -41,6 +41,8 @@
  ## P8
  ##### Creació d'un cartell en PNG sobre un pla, creant un objecte amb una textura i jugant amb la reflectancia i la refracció.
  [cartell noms](p8_cartell.jpg)
+ 
+ [portada disc practica voluntària](p8_voluntaria.jpg)
 
  ## P9
 ##### Organització d'elements en un espai (escenari) i com funcionen les textures en aquestos elements. Investigació de les llums amb colors per a donar més profunditat als espais o per jugar amb les sensacions que poden produïr (calidesa...)
