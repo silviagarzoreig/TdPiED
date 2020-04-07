@@ -21,6 +21,7 @@
 
  ## P4
  ##### Animant les propietats del cilindre, fer efecte foli passant-se.
+ [pràctica classe rodillo](p4.mp4)
 
  ## P5
 
