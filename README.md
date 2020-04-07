@@ -20,6 +20,7 @@
  [practica voluntaria pantone](p3_voluntaria_pantone.mp4)
 
  ## P4
+ ##### Animant les propietats del cilindre, fer efecte foli passant-se.
 
  ## P5
 
