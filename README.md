@@ -26,6 +26,7 @@
  [pràctica voluntària tots els cantons](p4_voluntaria.mp4)
 
  ## P5
+ ##### Crear un bucle amb el text "no es no" animant un cub amb textura de tipografia prèviament preparada en Illustrator.
 
  ## P6
 
