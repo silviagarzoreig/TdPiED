@@ -3,6 +3,7 @@
  ## P1
  ##### Amb efecte rodillo, crear un text que done la volta i que cambie de color segons el plano en el que es trobe.
  [practica classe text rodillo](p1_classe.mp4)
+ 
  [practica voluntaria FiGA Gandia](p1_voluntaria.mp4)
  
 
@@ -13,6 +14,7 @@
  ## P3
  ##### Animant les propietats d'un cub i els materials, crear un text que es veja mentre van rotant.
  [text volta](p3_volta.mp4)
+ 
  [practica voluntaria pantone](p3_voluntaria_pantone.mp4)
 
  ## P4
