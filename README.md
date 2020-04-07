@@ -10,6 +10,8 @@
  ## P2
  ##### Crear un recorregut de text fent efecte d'ondejar una bandera.
  [text amb ondejada](p2_text.mp4)
+ 
+ [pràctica_voluntària](p2_voluntaria.mp4)
 
  ## P3
  ##### Animant les propietats d'un cub i els materials, crear un text que es veja mentre van rotant.
