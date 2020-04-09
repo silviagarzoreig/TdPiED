@@ -49,3 +49,8 @@
 [bodegó planta, mac i pedra amb textures](p9_bodego_mac.jpg)
 
 [pràctica voluntària](p9_voluntaria.jpg)
+
+
+## P10
+##### Creació d'un escenari usant formes geomètriques gastant com a base una obra de Lissitzky.
+[escenari Lissitzky](escenari_lissitzky.jpg)
