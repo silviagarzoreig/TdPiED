@@ -54,3 +54,5 @@
 ## P10
 ##### Creació d'un escenari usant formes geomètriques gastant com a base una obra de Lissitzky.
 [escenari Lissitzky](escenari_lissitzky.jpg)
+
+[escenari_voluntari](p10_voluntaria.jpg)
