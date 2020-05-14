@@ -56,3 +56,9 @@
 [escenari Lissitzky](escenari_lissitzky.jpg)
 
 [escenari_voluntari](p10_voluntaria.jpg)
+
+
+
+## P11
+##### Creació d'un personatge propi posant en pràctica tot el que hem fet durant el curs.
+[personatge_propi](personatge_propi_ok.tif) 
